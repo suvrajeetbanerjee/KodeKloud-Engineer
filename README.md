@@ -8,9 +8,10 @@ KodeKloud Engineer Projects Documentation
 * **Problems Encountered**
 * **Terminal Commands**
 
-### Projects | Labs Taken → KodeKloud Engineer
+### Projects | Labs Taken + Tasks Completed → KodeKloud Engineer
 
-- **Linux - Level-1**
-- **Git - Level-1**
-- **Docker - Level-1**
+- **Linux — Level-1**
+- **Git — Level-1**
+- **Docker — Level-1**
 - **100 Days of DevOps**
+- **Terraform — Level-1**
